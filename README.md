@@ -5,9 +5,13 @@ This repo consists of the programming course work as in MITx 6.00.1x - SPRING 20
 
 Here's what's included:
 1. Weekly Finger Assignments (Represents 10% of the Total) 
-2. Weekly Problem Sets [PSET0 and PSET 5 Excluded as Non-Coding] (Represent 40% of the Total)
+2. Weekly Problem Sets  (Represent 40% of the Total)
 3. Quiz (Represents 25% of the Total)
 4. Final Exam (Represents 25% of the Total)
+
+P.S. 
+Finger Sets Theoretical Questions have been excluded.
+PSET 0 and PSET5 have been excluded as they were MCQs based on Theory and Practice.
 
 If you have applied for a Verified Certificate, you'll require a Total of 55% to qualify for the Certificate.
 
